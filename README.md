@@ -1,6 +1,6 @@
-# Finance-Management-Application
+# Express-Application
 
-A web application to keep track of personal expenses to promote financial planning.
+An express template to create web-server
 
 ## Setting up the server
 
